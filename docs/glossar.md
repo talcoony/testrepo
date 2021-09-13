@@ -3,4 +3,5 @@
 ## A
 
 - Affe
+- Astronaut
 - Auto
